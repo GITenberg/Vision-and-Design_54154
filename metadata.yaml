@@ -1,0 +1,34 @@
+_repo: Vision-and-Design_54154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fry, Roger
+    alias: Fry, Roger Eliot
+    birthdate: 1866
+    deathdate: 1934
+    gutenberg_agent_id: '47734'
+    url: http://www.gutenberg.org/2009/agents/47734
+description: ''
+gutenberg_issued: '2017-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54154'
+  lccn: '21017638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Art'
+- !lcc 'N'
+- GITenberg
+tableOfContents: Art and life -- An essay in æsthetics -- The ottoman and the whatnot
+  -- The artist's vision -- Art and socialism -- Art and science -- The art of the
+  Bushmen -- Negro sculpture -- Ancient American art -- The Munich exhibition of Mohammedan
+  art -- Giotto -- The art of Florence -- The Jacquemart-André collection -- Dürer
+  and his contemporaries -- El Greco -- Three pictures in tempera by William Blake
+  -- Claude -- Aubrey Beardsley's drawings -- The French post-impressionists -- Drawings
+  at the Burlington fine arts club -- Paul Cézanne -- Renoir -- A possible domestic
+  architecture -- Jean Marchand -- Retrospect.
+title: Vision and Design
+url: http://www.gutenberg.org/ebooks/54154
